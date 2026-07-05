@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0283-move-zeroes) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
