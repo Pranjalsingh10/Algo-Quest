@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0027-remove-element) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0014-longest-common-prefix) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -56,4 +58,8 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
