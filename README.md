@@ -16,6 +16,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
