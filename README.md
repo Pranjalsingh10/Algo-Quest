@@ -16,6 +16,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0056-merge-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
