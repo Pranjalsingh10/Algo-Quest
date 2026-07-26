@@ -26,6 +26,7 @@
 | [0704-binary-search](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
@@ -60,6 +61,7 @@
 | [0152-maximum-product-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
 | ------- |
