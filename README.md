@@ -23,6 +23,7 @@
 | [0162-find-peak-element](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0724-find-pivot-index) |
@@ -96,6 +97,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
