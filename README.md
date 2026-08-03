@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0724-find-pivot-index) |
@@ -71,12 +72,14 @@
 | [0015-3sum](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0704-binary-search) |
 ## Trie
 |  |
@@ -97,6 +101,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -123,4 +128,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
