@@ -119,4 +119,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
