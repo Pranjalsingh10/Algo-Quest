@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
@@ -81,6 +84,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 ## Binary Search
