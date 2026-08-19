@@ -31,6 +31,7 @@
 | [0496-next-greater-element-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0918-maximum-sum-circular-subarray) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
@@ -183,5 +185,6 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
