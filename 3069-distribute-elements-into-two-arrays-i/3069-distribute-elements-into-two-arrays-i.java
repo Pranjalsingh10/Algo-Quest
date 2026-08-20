@@ -17,5 +17,6 @@ class Solution {
         System.arraycopy(arr1,0,result,0,index1);
         System.arraycopy(arr2,0,result,index1,index2);
         return result;
+//System.arraycopy(source arr,source position,destination arr,destination position, lenght of element to copy);
     }
 }
