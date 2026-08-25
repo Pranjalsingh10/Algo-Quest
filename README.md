@@ -40,6 +40,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0496-next-greater-element-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
