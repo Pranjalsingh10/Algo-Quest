@@ -68,6 +68,7 @@
 | [0014-longest-common-prefix](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0049-group-anagrams) |
+| [0171-excel-sheet-column-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0171-excel-sheet-column-number) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -127,6 +128,7 @@
 | [0062-unique-paths](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0509-fibonacci-number) |
