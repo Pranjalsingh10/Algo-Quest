@@ -67,6 +67,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0171-excel-sheet-column-number) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0070-climbing-stairs) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0901-online-stock-span) |
@@ -179,6 +182,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0032-longest-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
