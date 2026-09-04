@@ -44,6 +44,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0724-find-pivot-index) |
+| [3903-smallest-stable-index-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
