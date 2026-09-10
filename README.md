@@ -136,6 +136,7 @@
 | [0069-sqrtx](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0509-fibonacci-number) |
