@@ -75,6 +75,7 @@
 | [0020-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0171-excel-sheet-column-number) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -135,6 +136,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0171-excel-sheet-column-number) |
@@ -176,6 +178,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
@@ -222,6 +225,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Design
 |  |
