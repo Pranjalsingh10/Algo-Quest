@@ -125,6 +125,7 @@
 | [0162-find-peak-element](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0875-koko-eating-bananas) |
 ## Trie
@@ -143,6 +144,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3870-count-commas-in-range) |
