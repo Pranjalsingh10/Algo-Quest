@@ -78,6 +78,7 @@
 | [0067-add-binary](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0171-excel-sheet-column-number) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,11 +199,13 @@
 | [0739-daily-temperatures](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0032-longest-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
