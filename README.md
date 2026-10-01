@@ -54,6 +54,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0088-merge-sorted-array) |
@@ -252,4 +253,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
