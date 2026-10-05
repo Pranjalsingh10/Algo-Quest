@@ -64,6 +64,7 @@
 | [0189-rotate-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -264,6 +265,7 @@
 | [0141-linked-list-cycle](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
