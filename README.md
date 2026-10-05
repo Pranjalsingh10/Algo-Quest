@@ -58,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0189-rotate-array) |
@@ -112,6 +113,7 @@
 | [0001-two-sum](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
@@ -259,6 +261,11 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0328-odd-even-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
