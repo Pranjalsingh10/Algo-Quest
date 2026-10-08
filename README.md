@@ -277,4 +277,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0141-linked-list-cycle) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
