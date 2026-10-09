@@ -66,6 +66,7 @@
 | [0283-move-zeroes](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [0234-palindrome-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
