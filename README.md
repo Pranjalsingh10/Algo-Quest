@@ -59,6 +59,7 @@
 | [0027-remove-element](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0189-rotate-array) |
@@ -107,6 +108,7 @@
 | [0049-group-anagrams](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -171,6 +173,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -272,6 +275,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0234-palindrome-linked-list) |
@@ -286,4 +290,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0005-longest-palindromic-substring) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
