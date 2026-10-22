@@ -207,6 +207,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0739-daily-temperatures) |
@@ -294,4 +295,16 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0148-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
