@@ -45,6 +45,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3904-smallest-stable-index-ii) |
@@ -159,6 +160,7 @@
 | [0441-arranging-coins](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0836-rectangle-overlap) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
