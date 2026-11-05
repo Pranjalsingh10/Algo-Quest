@@ -38,6 +38,7 @@
 | [0739-daily-temperatures](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0918-maximum-sum-circular-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -68,6 +69,7 @@
 | [0283-move-zeroes](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
@@ -112,6 +114,7 @@
 | [0148-sort-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
@@ -141,6 +144,7 @@
 | [0441-arranging-coins](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Trie
 |  |
 | ------- |
