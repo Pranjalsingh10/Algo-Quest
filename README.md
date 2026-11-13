@@ -45,6 +45,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -188,10 +189,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Stack
 |  |
 | ------- |
@@ -226,6 +230,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -258,6 +263,7 @@
 | [0739-daily-temperatures](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -345,4 +351,8 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0637-average-of-levels-in-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
