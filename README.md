@@ -45,6 +45,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0724-find-pivot-index) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Stack
 |  |
