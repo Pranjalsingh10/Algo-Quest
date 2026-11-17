@@ -360,4 +360,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Pranjalsingh10/Algo-Quest/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
